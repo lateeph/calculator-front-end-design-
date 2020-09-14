@@ -1,0 +1,29 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+td {
+	text-align: center;
+	padding-top: 20px;
+	font-size: 20px;
+}
+
+th {
+	padding-top: 20px;
+	font-size: 30px;
+	text-align: right;
+}
+
+.sign {
+	background-color: orange;
+	color: #FFFFFF;
+}
+
+.input {
+	background-color: #696969;
+	color: #FFFFFF;
+}
+
+.num {
+	background-color: #C0C0C0;
+}
